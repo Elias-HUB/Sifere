@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Application>
-  <tokenDragonfish>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTIxOTkxMzksInVzdWFyaW8iOiJBRE1JTiIsInBhc3N3b3JkIjoiM2FhMjZjMmE1NTg4Y2ExZGJmZmYzOTAyMDEwODg3OThkZjZlZGVmNzYzMTQ4YzMxMjY2N2JjMDY5OGY0MGVjMiJ9.1O_3uxT7vSlQ7Mhh1D880CwXOMPholp5zHKtHfxAIyQ</tokenDragonfish>
-  <clienteDragonfish>REST</clienteDragonfish>
-  <urlDragonfish>http://localhost:8010</urlDragonfish>
-  <basesDeDatos>CARDON</basesDeDatos>
-  <RutaExportacion>C:\PDF\</RutaExportacion>
-
-</Application>

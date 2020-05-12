@@ -1,0 +1,15 @@
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.csprojAssemblyReference.cache
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon___Exportacion_SIFERE.Properties.Resources.resources
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon___Exportacion_SIFERE.VentanaSifere.resources
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.csproj.GenerateResource.cache
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.csproj.CoreCompileInputs.cache
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\Cardon - Exportacion SIFERE.exe.config
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\Cardon - Exportacion SIFERE.exe
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\Cardon - Exportacion SIFERE.pdb
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.exe
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.pdb
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\Newtonsoft.Json.dll
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\RestSharp.dll
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\Newtonsoft.Json.xml
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\bin\Debug\RestSharp.xml
+G:\Proyectos\Zoologic\C#\Cardon - Exportacion SIFERE\Cardon - Exportacion SIFERE\obj\Debug\Cardon - Exportacion SIFERE.csproj.CopyComplete
