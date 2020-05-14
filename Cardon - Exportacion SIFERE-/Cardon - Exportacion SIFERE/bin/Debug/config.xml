@@ -2,10 +2,11 @@
 <Application>
   <tokenDragonfish>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTIxOTkxMzksInVzdWFyaW8iOiJBRE1JTiIsInBhc3N3b3JkIjoiM2FhMjZjMmE1NTg4Y2ExZGJmZmYzOTAyMDEwODg3OThkZjZlZGVmNzYzMTQ4YzMxMjY2N2JjMDY5OGY0MGVjMiJ9.1O_3uxT7vSlQ7Mhh1D880CwXOMPholp5zHKtHfxAIyQ</tokenDragonfish>
   <clienteDragonfish>REST</clienteDragonfish>
-  <urlDragonfish>http://localhost:8008</urlDragonfish>
+  <urlDragonfish>http://localhost:8010</urlDragonfish>
   <!--Pueden agregarse más bases de datos diferenciándolas con ; Ejemplo    DEMO;CARDON-->
   <basesDeDatos>CARDON</basesDeDatos>
   <RutaExportacion>C:\PDF\</RutaExportacion>
-  <!--Pueden agregarse más Proveedores diferenciándolos con ; Ejemplo    COMAFI;FRANCES-->
-  <Proveedores>COMAFI</Proveedores>
+  <!--Pueden agregarse más Proveedores diferenciándolos con ; Ejemplo    COMAFI;SUPERVIELL;CREDICOOP-->
+  <Proveedores>COMAFI;SUPERVIELL;CREDICOOP</Proveedores>  
+  <TipoCuenta>CA;CC;OO</TipoCuenta>
 </Application>

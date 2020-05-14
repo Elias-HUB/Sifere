@@ -13,7 +13,10 @@ namespace Cardon___Exportacion_SIFERE.Model
         public string urlDragonfish = "";
         public string[] basesDeDatos = null;
         public string rutaExportacion = "";
+        public string[] Proveedores = null;
+        public string[] TipoCuenta = null;
         private static Singleton _instance = null;
+
 
         private Singleton()
         {
@@ -50,16 +53,25 @@ namespace Cardon___Exportacion_SIFERE.Model
                     urlDragonfish = xmldoc.Element("urlDragonfish").Value;
                     basesDeDatos = xmldoc.Element("basesDeDatos").Value.Split(';');
                     rutaExportacion = xmldoc.Element("RutaExportacion").Value;
+                    Proveedores = xmldoc.Element("Proveedores").Value.Split(';');
+                    TipoCuenta = xmldoc.Element("TipoCuenta").Value.Split(';');
 
-                    if (tokenDragonfish == "" || clienteDragonfish == "" || urlDragonfish == "" || basesDeDatos == null)
+
+                    if (tokenDragonfish == "" || clienteDragonfish == "" || urlDragonfish == "" || basesDeDatos == null || Proveedores == null || TipoCuenta == null)
                     {
                         Program.ConsoleLog("Datos incompletos en el archivo config.xml");
+                        throw new Exeptions.Exceptions("Datos incompletos en el archivo config.xml");
                     }
                 }
                 else
                 {
                     Program.ConsoleLog("Archivo config.xml no existe");
+                    throw new Exeptions.Exceptions("Archivo config.xml no existe");
                 }
+            }
+            catch (Exeptions.Exceptions Ex)
+            {
+                throw Ex;
             }
             catch (Exception e)
             {

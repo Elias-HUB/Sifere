@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
+
 
 namespace Cardon___Exportacion_SIFERE
 {
@@ -21,9 +19,9 @@ namespace Cardon___Exportacion_SIFERE
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //Verificar APi
             Application.Run(new VentanaSifere());
         }
+
 
         static public void ConsoleLog(string Message)
         {

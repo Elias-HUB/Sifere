@@ -18,3 +18,100 @@ Nombre del parámetro: startIndex
 Nombre del parámetro: startIndex
 2020-05-11 10:45:42-GetOtrosPagos: 0 
 2020-05-11 10:46:16-GetOtrosPagos: 0 
+2020-05-12 17:54:38-GetOtrosPagos: 0 
+2020-05-13 09:42:56-GetOtrosPagos: 0 
+2020-05-13 09:43:17-GetOtrosPagos: 0 
+2020-05-13 09:43:25-GetOtrosPagos: 0 
+2020-05-13 09:44:49-GetOtrosPagos: 0 
+2020-05-13 11:33:41-getProveedores: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:33:41-GetOtrosPagos: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:33:42-buttonExportar: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:36:04-GetOtrosPagos: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:36:06-buttonExportar: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:36:10-GetOtrosPagos: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 11:36:11-buttonExportar: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: count
+2020-05-13 13:34:55-Verificador Conexion: NotFound /nNot Found
+2020-05-13 13:36:57-Verificador Conexion: NotFound /nNot Found
+2020-05-13 13:48:29-Verificador Conexion: BadRequest Código de Error SQL: 156
+2020-05-13 13:58:59-Verificador Conexion: BadRequest Código de Error SQL: 156
+2020-05-13 13:59:10-Verificador Conexion: BadRequest Código de Error SQL: 156
+2020-05-13 14:00:14-Verificador Conexion: BadRequest
+2020-05-13 14:52:35-Verificador Conexion: BadRequest
+2020-05-13 15:04:17-VentanaSifere: Referencia a objeto no establecida como instancia de un objeto.
+2020-05-13 15:05:13-VentanaSifere: Referencia a objeto no establecida como instancia de un objeto.
+2020-05-13 15:05:57-Verificador Conexion: BadRequest
+2020-05-13 15:08:20-Verificador Conexion: BadRequest
+2020-05-13 15:09:58-Verificador Conexion: BadRequest
+2020-05-13 15:13:16-Verificador Conexion: BadRequest
+2020-05-13 15:15:14-Verificador Conexion: BadRequest
+2020-05-13 15:15:27-Verificador Conexion: BadRequest
+2020-05-13 15:16:45-Verificador Conexion: BadRequest
+2020-05-13 15:18:58-Verificador Conexion: BadRequest
+2020-05-13 15:19:21-Verificador Conexion: BadRequest
+2020-05-13 15:20:23-Verificador Conexion: BadRequest
+2020-05-13 15:25:34-Verificador Conexion: BadRequest
+2020-05-13 15:27:29-Verificador Conexion: BadRequest
+2020-05-13 15:27:40-Verificador Conexion: BadRequest
+2020-05-13 15:27:51-Verificador Conexion: BadRequest
+2020-05-13 15:28:55-Verificador Conexion: BadRequest
+2020-05-13 15:29:23-Verificador Conexion: BadRequest
+2020-05-13 15:29:56-Verificador Conexion: BadRequest
+2020-05-13 15:38:47-Verificador Conexion: BadRequest
+2020-05-13 15:39:14-Verificador Conexion: BadRequest
+2020-05-13 15:39:24-Verificador Conexion: BadRequest
+2020-05-13 15:39:34-Verificador Conexion: BadRequest
+2020-05-13 15:43:10-Verificador Conexion: BadRequest
+2020-05-13 15:43:28-Verificador Conexion: BadRequest
+2020-05-13 15:44:47-Verificador Conexion: BadRequest
+2020-05-13 15:45:25-Verificador Conexion: BadRequest
+2020-05-13 15:45:37-Verificador Conexion: BadRequest
+2020-05-13 15:48:05-Verificador Conexion: BadRequest
+2020-05-13 15:58:04-Verificador Conexion: BadRequest
+2020-05-13 15:58:20-Verificador Conexion: Unauthorized
+2020-05-13 16:01:39-Verificador Conexion Unauthorized
+2020-05-13 16:02:13-Verificador Conexion Unauthorized
+2020-05-13 16:02:50-Verificador Conexion  
+Unauthorized
+2020-05-13 16:03:11-Verificador Conexion  
+Unauthorized
+2020-05-13 16:04:34-Verificador Conexion: Unauthorized
+2020-05-13 16:05:52-Verificador Conexion: Unauthorized
+2020-05-13 16:09:46-Verificador Conexion: Unauthorized
+2020-05-13 16:23:31-Verificador Conexion: Unauthorized
+2020-05-13 18:34:28-Verificador Conexion: Unauthorized
+2020-05-13 18:34:38-Verificador Conexion: Unauthorized
+2020-05-13 18:35:42-Verificador Conexion: Unauthorized
+2020-05-13 18:36:04-Verificador Conexion: Unauthorized
+2020-05-13 19:36:06-GuardarProveedorEnListado: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 19:36:06-getProveedores: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 19:36:07-buttonExportar: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 20:10:35-GuardarProveedorEnListado: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 20:11:27-GuardarProveedorEnListado: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 20:27:44-GuardarProveedorEnListado: startIndex no puede ser mayor que la longitud de la cadena.
+Nombre del parámetro: startIndex
+2020-05-13 20:56:04-GuardarProveedorEnListado: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 20:56:18-getProveedores: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 20:56:25-buttonExportar: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:11:52-GuardarProveedorEnListado: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:11:52-getProveedores: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:11:54-buttonExportar: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:18:11-getProveedores: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:18:13-buttonExportar: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:18:38-getProveedores: Proveedor 0 El cuit no tiene la cantidad de caracteres correspondiente
+2020-05-13 21:53:59-VentanaSifere: Referencia a objeto no establecida como instancia de un objeto.
+2020-05-13 21:54:04-VentanaSifere: Referencia a objeto no establecida como instancia de un objeto.
+2020-05-13 21:54:22-VentanaSifere: Referencia a objeto no establecida como instancia de un objeto.
+2020-05-13 22:15:55-El Proveedor CREDICOOP en el campo CUIT no contiene la cantidad de caracteres correspondiente. Una vez corregido intente nuevamente.
+2020-05-13 22:55:34-El Proveedor CREDICOOP en el campo CUIT no contiene la cantidad de caracteres correspondiente. Una vez corregido intente nuevamente.
